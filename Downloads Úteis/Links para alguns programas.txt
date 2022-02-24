@@ -1,0 +1,5 @@
+https://git-scm.com/downloads - Git
+
+https://www.eclipse.org/downloads/packages/ - Eclipse
+
+https://www.azul.com/downloads/?package=jdk - JDK 
